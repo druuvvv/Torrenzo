@@ -7,7 +7,7 @@ import web_scraper
 import requests
 from y1 import youtubedownloader
 
-token = 'OTg5MDgyODQ5MDE1NjQ4Mjg3.GpjGOT.azIXAnjKSPSb4NonClZl4w6vPpoz09LzDDts_Y'         
+token = <your_token>         
 dictionary = {'link' : [0,0,0,0,0] , 'name' : [0,0,0,0,0] , 'seeder' : [0,0,0,0,0] , 'size' : [0,0,0,0,0]}
 
 client = commands.Bot(command_prefix = '.')
